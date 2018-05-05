@@ -8,7 +8,7 @@ https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
 
 
 
-Text Tokenize
+Text vectonize
 
 -[Fasttext](https://fasttext.cc/docs/en/english-vectors.html)
 
